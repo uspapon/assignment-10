@@ -7,7 +7,7 @@ body{
 .nav a {
     font-weight: 500;
 }
-.nav a:hover {
+.nav a:hover, a:hover {
 
     color: #dc3545 !important;
     text-decoration: underline;
@@ -21,4 +21,8 @@ body{
 
 .social-links a:hover {
     color: #dc3545 !important;
+}
+
+.bg-site-subtle{
+    background-color: #f9f8ff;
 }
