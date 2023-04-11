@@ -7,7 +7,7 @@ body{
 .nav a {
     font-weight: 500;
 }
-.nav a:hover, a:hover {
+.nav a:hover, .catagory a:hover {
 
     color: #dc3545 !important;
     text-decoration: underline;
